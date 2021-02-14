@@ -3,10 +3,8 @@
 Description: The previous Hortiseon website did not follow the standards of the Americans with Disabilities Act, so I was tasked on bringing it up to speed.
     The goal was to update the website's code without making drastic changes to the overall layout of the site.  I was successfully able to replace most of the code with it's semantic equivalent.  I did have some issues with files messing up when I moved their locations, which resulted in me having to put both the html and css files inside the assets folder for it to work.  The goal for any further changes would be to help stop that from happening.
 
-Change Overview:
-    -Removed div tags and replaced them with their semantic equivalent
-    -took seperate existing styles and grouped them together where appropriate
-    -updated image urls
+Change Overview:  Removed div tags and replaced them with their semantic equivalent.  With that taken care of, I then went into the css file and condensed it by 
+    grouping styles together that could be grouped together.  Once that was accomplished, the last step was updating the image urls, so they would appear.
 
 ```md
 ![screenshot](C:\Users\trb51\Homework\images\screencapture-file-C-Users-trb51-Homework-assets-Homework-html-2021-02-13-23_48_21 (1).png)
