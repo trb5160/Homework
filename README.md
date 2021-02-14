@@ -1,14 +1,12 @@
 # Code Refractor
 
 Description: The previous Hortiseon website did not follow the standards of the Americans with Disabilities Act, so I was tasked on bringing it up to speed.
-    The goal was to update the website's code without making drastic changes to the overall layout of the site.  I was successfully able to replace most of the code with it's semantic equivalent.  I did have some issues with files messing up when I moved their locations, which resulted in me having to put both the html and css files inside the assets folder for it to work.  The goal for any further changes would be to help stop that from happening.
+    The goal was to update the website's code without making drastic changes to the overall layout of the site.  I was successfully able to replace most of the code with it's semantic equivalent.  I did come into 2 issues, both having to do with images not loading properly.  The background image of the website and the screenshot of the website would not work.  Future changes would hope to fix this issue.
 
 Change Overview:  Removed div tags and replaced them with their semantic equivalent.  With that taken care of, I then went into the css file and condensed it by 
-    grouping styles together that could be grouped together.  Once that was accomplished, the last step was updating the image urls, so they would appear.
+    grouping styles together that could be grouped together.  Once that was accomplished, the last step was updating the image urls, so they would appear.  
 
-```md
-![Alt Text](https://github.com/trb5160/Tom_Barber_Code_Refractory/blob/main/images/ScreencaptureWebsite.jpg)
-```
+![alt text](https://github.com/trb5160/Tom_Barber_Code_Refractory/blob/main/images/ScreencaptureWebsite.jpg)
 
 Page URL: https://trb5160.github.io/Tom_Barber_Code_Refractory/
 GitHub Repo URL: https://github.com/trb5160/Tom_Barber_Code_Refractory.git
