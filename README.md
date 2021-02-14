@@ -1,15 +1,16 @@
 # Code Refractor
 
 Description: The previous Hortiseon website did not follow the standards of the Americans with Disabilities Act, so I was tasked on bringing it up to speed.
-    To make the code more accessible to people with disabilities, I reworked it to include semantic HTML elements.
+    The goal was to update the website's code without making drastic changes to the overall layout of the site.  I was successfully able to replace most of the code with it's semantic equivalent.  I did have some issues with files messing up when I moved their locations, which resulted in me having to put both the html and css files inside the assets folder for it to work.  The goal for any further changes would be to help stop that from happening.
 
 Change Overview:
     -Removed div tags and replaced them with their semantic equivalent
     -took seperate existing styles and grouped them together where appropriate
     -updated image urls
 
-![alt text](C:\Users\trb51\Homework\images\screencapture-file-C-Users-trb51-Homework-assets-Homework-html-2021-02-13-23_48_21 (1).png)
-Links:
+```md
+![screenshot](C:\Users\trb51\Homework\images\screencapture-file-C-Users-trb51-Homework-assets-Homework-html-2021-02-13-23_48_21 (1).png)
+```
 
 Page URL: https://trb5160.github.io/Tom_Barber_Code_Refractory/
 GitHub Repo URL: https://github.com/trb5160/Tom_Barber_Code_Refractory.git
