@@ -7,7 +7,7 @@ Change Overview:  Removed div tags and replaced them with their semantic equival
     grouping styles together that could be grouped together.  Once that was accomplished, the last step was updating the image urls, so they would appear.
 
 ```md
-![screenshot](C:\Users\trb51\Homework\images\ScreencaptureWebsite.jpg)
+![Alt Text](C:\Users\trb51\Homework\images\ScreencaptureWebsite.jpg)
 ```
 
 Page URL: https://trb5160.github.io/Tom_Barber_Code_Refractory/
