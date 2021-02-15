@@ -29,7 +29,7 @@ figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: C:\Users\trb51\RUT-JER-FSF-PT-02-2021-U-C\week-1\01-HTML-Git-CSS\02-Homework\Develop\assets\images\digital-marketing-meeting.jpg;
+    background-image: url(\images\digital-marketing-meeting.jpg);
     background-size: cover;
     background-position: center;
 }
