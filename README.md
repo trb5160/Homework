@@ -1,10 +1,10 @@
 # Code Refractor
 
 Description: The previous Hortiseon website did not follow the standards of the Americans with Disabilities Act, so I was tasked on bringing it up to speed.
-    The goal was to update the website's code without making drastic changes to the overall layout of the site.  I was successfully able to replace most of the code with it's semantic equivalent.  I did come into 2 issues, both having to do with images not loading properly.  The background image of the website and the screenshot of the website would not work.  Future changes would hope to fix this issue.
+    The goal was to update the website's code without making drastic changes to the overall layout of the site.  I was successfully able to replace most of the code with it's semantic equivalent.  I did come into one issue, where one of the background images would not load properly.  This was also present in the github screenshot, but that has been resolved.
 
 Change Overview:  Removed div tags and replaced them with their semantic equivalent.  With that taken care of, I then went into the css file and condensed it by 
-    grouping styles together that could be grouped together.  Once that was accomplished, the last step was updating the image urls, so they would appear.  
+    grouping styles together that could be grouped together.  Once that was accomplished, the last step was updating the image urls, so they would appear.  Finally
 
 ![alt text](https://github.com/trb5160/Tom_Barber_Code_Refractory/blob/main/images/ScreencaptureWebsite.jpg)
 
