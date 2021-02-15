@@ -6,7 +6,7 @@ Description: The previous Hortiseon website did not follow the standards of the 
 Change Overview:  Removed div tags and replaced them with their semantic equivalent.  With that taken care of, I then went into the css file and condensed it by 
     grouping styles together that could be grouped together.  Once that was accomplished, the last step was updating the image urls, so they would appear.  Finally
 
-![alt text](https://github.com/trb5160/Tom_Barber_Code_Refractory/blob/main/images/ScreencaptureWebsite.jpg)
+![alt text](https://github.com/trb5160/Tom_Barber_Code_Refractory/blob/main/assets/images/ScreencaptureWebsite.jpg)
 
 Page URL: https://trb5160.github.io/Tom_Barber_Code_Refractory/
 GitHub Repo URL: https://github.com/trb5160/Tom_Barber_Code_Refractory.git
